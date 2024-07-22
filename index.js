@@ -9,4 +9,8 @@ app.get('/oi', function (req, res) {
     res.send('Ola! Mundo')
 })
 
+app.get('/welcome', function (req, res){
+    res.send('Seja Bem Vindo ao Curso!')
+})
+
 app.listen(3000)
