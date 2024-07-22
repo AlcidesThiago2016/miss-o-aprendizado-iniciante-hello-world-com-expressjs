@@ -4,7 +4,7 @@
   "description": "Missão de Aprendizado Iniciante com Hello World no ExpressJS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
